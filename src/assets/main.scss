@@ -1,0 +1,15 @@
+@import "bootswatch/dist/sketchy/variables";
+@import "bootstrap/scss/bootstrap";
+@import "bootswatch/dist/sketchy/bootswatch";
+
+main {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    justify-content: space-between;
+}
+
+.content {
+    display: flex;
+    flex: 1;
+}

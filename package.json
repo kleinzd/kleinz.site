@@ -10,7 +10,12 @@
     "format": "prettier --write src/"
   },
   "dependencies": {
+    "@popperjs/core": "^2.11.7",
+    "bootstrap": "^5.2.3",
+    "bootstrap-icons": "^1.10.5",
+    "bootswatch": "^5.2.3",
     "daisyui": "^2.51.5",
+    "sass": "^1.62.1",
     "vue": "^3.2.47",
     "vue-router": "^4.1.6"
   },
