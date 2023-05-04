@@ -13,7 +13,7 @@
           <button type="button" class="btn btn-success" disabled>Works</button>
         </div>
       </div>
-      <div class="col my-auto"><img src="/nijika.jpg" width="300" height="300" class="img-thumbnail"></div>
+      <div class="col my-auto"><img src="/kana.png" width="300" height="300" class="img-thumbnail"></div>
     </div>
   </div>
 </template>
