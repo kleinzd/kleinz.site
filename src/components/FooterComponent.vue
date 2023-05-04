@@ -1,3 +1,5 @@
 <template>
-    <div class=""></div>
+    <footer class="py-3 my-4">
+        <p class="text-center text-muted">© 2023 Kleinz</p>
+    </footer>
 </template>
