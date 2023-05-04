@@ -11,10 +11,10 @@
                 </ul>
                 <ul class="navbar-nav ms-md-auto">
                     <li class="nav-item">
-                        <a class="nav-link active" href="#"><i class="bi bi-twitter"></i> Twitter</a>
+                        <a class="nav-link active" href="https://twitter.com/kleinztwt"><i class="bi bi-twitter"></i> Twitter</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link active" href="#"><i class="bi bi-github"></i> Github</a>
+                        <a class="nav-link active" href="https://github.com/kleinzd"><i class="bi bi-github"></i> Github</a>
                     </li>
                 </ul>
             </div>

@@ -9,8 +9,8 @@
         <h1>Hi! I'm Kleinz!</h1>
         <p>15 year old high school student & web developer</p>
         <div class="d-flex flex-row gap-2">
-          <button type="button" class="btn btn-info"><i class="bi bi-github"></i> Github</button>
-          <button type="button" class="btn btn-success" disabled>Works</button>
+          <a class="btn btn-info" href="https://github.com/kleinzd"><i class="bi bi-github"></i> Github</a>
+          <a class="btn btn-success" disabled>Works</a>
         </div>
       </div>
       <div class="col my-auto"><img src="/kana.png" width="300" height="300" class="img-thumbnail"></div>
